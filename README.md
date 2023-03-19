@@ -1,5 +1,11 @@
+![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
+<p align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+THERE+1;IT'S+ME+THAVINDU)](https://git.io/typing-svg)
+  <!-- Gif -->
+  <a>
+    <img src="https://github.com/GalexY727/GalexY727/blob/main/media/GalexYBanner.gif" alt="GalexY" /></a>
+    
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THAVINDU+LIYANAGE)](https://git.io/typing-svg)
 
 
 <!--
