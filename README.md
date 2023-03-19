@@ -1,5 +1,5 @@
-### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=IT'S+ME+THAVINDU)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+THERE+1;IT'S+ME+THAVINDU)](https://git.io/typing-svg)
 
 
 <!--
