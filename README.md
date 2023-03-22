@@ -1,7 +1,7 @@
 ![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
 <p align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=THAVINDU+LIYANAGE)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+THERE+STRANGER+!!!👀)](https://git.io/typing-svg)
 
 
 <!--
