@@ -2,6 +2,7 @@
 <p align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+THERE+STRANGER+!!👋!)](https://git.io/typing-svg)
+
  <h3>Connect with me </h3>
   <a href="https://www.linkedin.com/in/thavinduliyanage/" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="LinkedIn" />
