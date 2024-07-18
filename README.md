@@ -2,8 +2,33 @@
 <p align="center">
     
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+THERE+STRANGER+!!👋!)](https://git.io/typing-svg)
+ <h3>Connect with me </h3>
+  <a href="https://www.linkedin.com/in/thavinduliyanage/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="LinkedIn" />
+  </a>
+  <a href="mailto:thavindul2gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
+  </a>
+<div align="left">
+  <h3>Tools and Technologies</h3>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=aws,git,github,bitbucket,postman,docker,kubernetes,vscode&theme=dark" alt="Tools" />
+    </a>
+  </div>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,vue,nodejs,php,mongodb,firebase,flutter,kotlin,sql," alt="Technologies" />
+    </a>
+  </div>
+  <div>
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Software" />
+    </a>
+  </div>
+</div>
 
-
+<br>
 <!--
 **IthavinduU/IthavinduU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
