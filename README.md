@@ -1,10 +1,10 @@
 ![---](https://github.com/GalexY727/GalexY727/blob/main/media/DripBanner.png)
 <p align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=HI+THERE+STRANGER+!!👋!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+There+Stranger+!!!👋)](https://git.io/typing-svg)
 
  <h3>Connect with me </h3>
-  <a href="https://www.linkedin.com/in/thavinduliyanage/" target="_blank">
+  <a href="mailto:thavindul@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="LinkedIn" />
   </a>
   <a href="mailto:thavindul2gmail.com" target="_blank">
